@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(235, 123, 123);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.container-fluid{
+    position: relative;
+    left: 300px;
+    top: 200px;
+}
+#output{
+    padding: 10px;
+    border: 10px;
+    border: 2px solid black;
+    width: 50px;
+}
